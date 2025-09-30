@@ -1140,7 +1140,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf1f7c54c0ae0624886bab2f06d61f67, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  temperature: 20
+  temperature: 12
   coldColor: {r: 0, g: 0, b: 1, a: 1}
   normalColor: {r: 0, g: 1, b: 0, a: 1}
   hotColor: {r: 1, g: 0, b: 0, a: 1}
@@ -6234,7 +6234,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf1f7c54c0ae0624886bab2f06d61f67, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  temperature: 20
+  temperature: 15
   coldColor: {r: 0, g: 0, b: 1, a: 1}
   normalColor: {r: 0, g: 1, b: 0, a: 1}
   hotColor: {r: 1, g: 0, b: 0, a: 1}
